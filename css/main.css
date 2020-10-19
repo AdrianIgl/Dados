@@ -1,0 +1,61 @@
+.menu{
+    text-align: center;
+}
+.barra{
+    float: left;
+    background-color: cornflowerblue;
+}
+.bodys {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #ADABAB;
+ }
+ 
+ .inicio {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    color: #017572;
+ }
+ 
+ .inicio .cabezera,
+ .inicio .caja {
+    margin-bottom: 10px;
+ }
+ 
+ .inicio .caja {
+    font-weight: normal;
+ }
+ 
+ .inicio .control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+ }
+ 
+ .inicio .control:focus {
+    z-index: 2;
+ }
+ 
+ .inicio input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-color:#017572;
+ }
+ 
+ .inicio input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-color:#017572;
+ }
+ 
+ h2{
+    text-align: center;
+    color: #017572;
+ }
