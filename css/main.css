@@ -4,6 +4,7 @@
 .barra{
     float: left;
     background-color: cornflowerblue;
+    border-color: black;
 }
 .bodys {
     padding-top: 40px;
