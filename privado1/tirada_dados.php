@@ -24,7 +24,7 @@ echo '<!DOCTYPE html>
 </body>
 </html>';
 
-for($i=0;i<5;$i++)
+for($i=0;$i<5;$i++)
 {
     $numero=rand(1,6);
     switch($numero){
