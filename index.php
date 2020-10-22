@@ -28,6 +28,7 @@
                   $_SESSION['valid'] = true;
                   $_SESSION['timeout'] = time();
                   $_SESSION['username'] = 'juan@gmail.com';
+                  header('Location:menu.php');
                   
                   echo 'Correcto';
                }else {
@@ -49,7 +50,7 @@
             <input type = "password" class = "control"
                name = "password" placeholder = "password = juan" required>
             <button type = "submit" 
-               name = "login" href="menu.php">Login</button>
+               name = "login" type ="submit" value = "Log in">Login</button>
 
          </form>
 			
