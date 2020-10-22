@@ -39,62 +39,62 @@ if (isset($_REQUEST['comprobar'])){
     $suma = $dado1+$dado2+$dado3;
     switch ($dado1){
         case 1:
-            echo '<img src="img/uno.jpg" alt="uno" width="150" height="150">';
+            echo '<img src="../img/uno.jpg" alt="uno" width="150" height="150">';
             break;
         case 2:
-            echo '<img src="img/dos.jpg" alt="dos" width="150" height="150">';
+            echo '<img src="../img/dos.jpg" alt="dos" width="150" height="150">';
             break;
         case 3:
-            echo '<img src="img/tres.jpg" alt="tres" width="150" height="150">';
+            echo '<img src="../img/tres.jpg" alt="tres" width="150" height="150">';
             break;
         case 4:
-            echo '<img src="img/cuatro.jpg" alt="cuatro" width="150" height="150">';
+            echo '<img src="../img/cuatro.jpg" alt="cuatro" width="150" height="150">';
             break;
         case 5:
-            echo '<img src="img/cinco.jpg" alt="cinco" width="150" height="150">';
+            echo '<img src="../img/cinco.jpg" alt="cinco" width="150" height="150">';
             break;
         case 6:
-            echo '<img src="img/seis.jpg" alt="seis" width="150" height="150">';
+            echo '<img src="../img/seis.jpg" alt="seis" width="150" height="150">';
             break;
     }
     switch ($dado2){
         case 1:
-            echo '<img src="img/uno.jpg" alt="uno" width="150" height="150">';
+            echo '<img src="../img/uno.jpg" alt="uno" width="150" height="150">';
             break;
         case 2:
-            echo '<img src="img/dos.jpg" alt="dos" width="150" height="150">';
+            echo '<img src="../img/dos.jpg" alt="dos" width="150" height="150">';
             break;
         case 3:
-            echo '<img src="img/tres.jpg" alt="tres" width="150" height="150">';
+            echo '<img src="../img/tres.jpg" alt="tres" width="150" height="150">';
             break;
         case 4:
-            echo '<img src="img/cuatro.jpg" alt="cuatro" width="150" height="150">';
+            echo '<img src="../img/cuatro.jpg" alt="cuatro" width="150" height="150">';
             break;
         case 5:
-            echo '<img src="img/cinco.jpg" alt="cinco" width="150" height="150">';
+            echo '<img src="../img/cinco.jpg" alt="cinco" width="150" height="150">';
             break;
         case 6:
-            echo '<img src="img/seis.jpg" alt="seis" width="150" height="150">';
+            echo '<img src="../img/seis.jpg" alt="seis" width="150" height="150">';
             break;
     }
     switch ($dado3){
         case 1:
-            echo '<img src="img/uno.jpg" alt="uno" width="150" height="150">';
+            echo '<img src="../img/uno.jpg" alt="uno" width="150" height="150">';
             break;
         case 2:
-            echo '<img src="img/dos.jpg" alt="dos" width="150" height="150">';
+            echo '<img src="../img/dos.jpg" alt="dos" width="150" height="150">';
             break;
         case 3:
-            echo '<img src="img/tres.jpg" alt="tres" width="150" height="150">';
+            echo '<img src="../img/tres.jpg" alt="tres" width="150" height="150">';
             break;
         case 4:
-            echo '<img src="img/cuatro.jpg" alt="cuatro" width="150" height="150">';
+            echo '<img src="../img/cuatro.jpg" alt="cuatro" width="150" height="150">';
             break;
         case 5:
-            echo '<img src="img/cinco.jpg" alt="cinco" width="150" height="150">';
+            echo '<img src="../img/cinco.jpg" alt="cinco" width="150" height="150">';
             break;
         case 6:
-            echo '<img src="img/seis.jpg" alt="seis" width="150" height="150">';
+            echo '<img src="../img/seis.jpg" alt="seis" width="150" height="150">';
             break;
     }
 
