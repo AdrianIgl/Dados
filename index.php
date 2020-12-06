@@ -14,7 +14,7 @@
 	
    <body class="bodys">
       
-      <h2>Login</h2> 
+      <h2>LoginTravis</h2> 
       <div class = "container inicio">
          
          <?php
